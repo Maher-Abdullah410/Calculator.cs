@@ -1,3 +1,6 @@
+ Subtraction
+Console.WriteLine("Subtraction: " + (a - b));
+
 using System;
 
 class Calculator
@@ -8,3 +11,4 @@ class Calculator
         Console.WriteLine("Addition: " + (a + b));
     }
 }
+ addition
